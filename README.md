@@ -159,7 +159,7 @@ Therefore, potential causes of sales declines should be treated as hypotheses re
 
 ## 📊 Power BI Dashboard
 
-![Retail Sales Power BI Dashboard](dashboard_preview.png)
+![Retail Sales Power BI Dashboard](Dashboard_Preview.png)
 
 The Power BI dashboard provides:
 
