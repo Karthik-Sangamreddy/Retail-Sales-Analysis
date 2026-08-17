@@ -1,5 +1,22 @@
 # Retail Sales Analysis
 
+---
+
+## 📊 Power BI Dashboard
+
+![Retail Sales Power BI Dashboard](Dashboard_Preview.png)
+
+The Power BI dashboard provides:
+
+- Executive KPI cards
+- Monthly Sales Trend
+- Sales by Product Category
+- Quarterly Sales Trend
+- Interactive filters for Product Category, Gender, Quarter, and Month
+
+The dashboard is designed to provide management with a quick overview of sales performance and allow further exploration of the data.c
+
+
 ## 📊 Project Overview
 
 An end-to-end retail sales analysis project designed to understand sales performance, customer behavior, product category performance, and sales trends over time.
@@ -154,22 +171,6 @@ The dataset has several limitations:
 - External factors affecting customer demand are unavailable.
 
 Therefore, potential causes of sales declines should be treated as hypotheses requiring further investigation rather than confirmed causes.
-
----
-
-## 📊 Power BI Dashboard
-
-![Retail Sales Power BI Dashboard](Dashboard_Preview.png)
-
-The Power BI dashboard provides:
-
-- Executive KPI cards
-- Monthly Sales Trend
-- Sales by Product Category
-- Quarterly Sales Trend
-- Interactive filters for Product Category, Gender, Quarter, and Month
-
-The dashboard is designed to provide management with a quick overview of sales performance and allow further exploration of the data.
 
 ---
 
