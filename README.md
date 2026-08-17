@@ -16,6 +16,7 @@ The Power BI dashboard provides:
 
 The dashboard is designed to provide management with a quick overview of sales performance and allow further exploration of the data.c
 
+---
 
 ## 📊 Project Overview
 
