@@ -34,7 +34,6 @@ The business wants to understand its sales performance and identify important pa
 The analysis focuses on:
 
 - Identifying top-performing product categories
-- Understanding customer purchasing behavior
 - Identifying high-value customers
 - Analyzing monthly and quarterly sales performance
 - Investigating changes in product category performance
@@ -44,8 +43,8 @@ The analysis focuses on:
 ## 🎯 Business Objectives
 
 1. Identify the top-performing product category
-2. Analyze customer demographics and purchasing behavior
-3. Identify high-value customers
+2. Identify high-value customers
+3. Analyze monthly sales performance
 4. Analyze quarterly sales performance
 5. Identify product performance trends across quarters
 
