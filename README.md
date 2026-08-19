@@ -4,7 +4,7 @@
 
 ## 📊 Project Overview
 
-An end-to-end retail sales analysis project designed to understand sales performance, customer behavior, product category performance, and sales trends over time.
+An end-to-end retail sales analysis project designed to understand sales performance, product category performance, and sales trends over time.
 
 The project uses Python, MySQL, Power BI, and Excel to transform raw retail transaction data into business insights and an interactive dashboard.
 
